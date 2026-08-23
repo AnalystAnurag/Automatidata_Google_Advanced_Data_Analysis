@@ -154,13 +154,6 @@ Open any of the five notebooks in order — each is self-contained but builds co
 - The Part 3 A/B test assumes riders were randomly and consistently assigned to a payment method for the purposes of the exercise — a simplification made for this educational project, since the real dataset does not reflect a true randomized experiment.
 - The Part 5 tip-prediction analysis is restricted to credit-card transactions, since cash tips are not reliably recorded in the TLC dataset.
 - This project was completed as part of a structured certificate curriculum (Google Advanced Data Analytics) using the PACE framework (**P**lan, **A**nalyze, **C**onstruct, **E**xecute) at each stage.
-
----
-
-## 👤 Author
-
-**Anurag Dash**
-
 ---
 
 ## 📄 License
